@@ -1,0 +1,27 @@
+.landing-page-cont {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: aliceblue;
+}
+.landing-image {
+    width: 40vw;
+    height: 99vh;
+}
+.landing-section {
+    align-self: center;
+    text-align: center;
+}
+
+.landing-title {
+    font-size: 1.4rem;
+    font-family: 'Times New Roman', Times, serif;
+    margin-bottom: 10px;
+}
+
+.landing-btn button{
+    border: none;
+}
+
+.landing-btn {
+    border: 1px solid black;
+}
